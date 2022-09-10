@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    padding: 30px;
+    height: 100%;
+    width: 50%;
+    border: 1px solid black;
+    gap: 10px;
+}
+#addComment{
+    background-color: rgb(109, 232, 181);
+}
